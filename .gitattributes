@@ -1,0 +1,2 @@
+* text=auto !eol
+*.klc text eol=crlf
